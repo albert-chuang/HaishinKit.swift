@@ -8,7 +8,7 @@
 * Issuesの言語は、日本語が分かる方は日本語でお願いします！
 
 ## Communicaiton
-* If you need help with making LiveStreaming requests using HaishinKit, use a GitHub issue with **Bug report tempalte**
+* If you need help with making LiveStreaming requests using HaishinKit, use a GitHub issue with **Bug report template**
   - The trace level log is very useful. Please set `Logboard.with(HaishinKitIdentifier).level = .trace`. 
   - If you dont't use an issue template. I will immediately close the your issue without a comment.
 * If you'd like to discuss a feature request, use a GitHub issue with **Feature request template**.
